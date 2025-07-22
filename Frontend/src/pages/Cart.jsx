@@ -2,7 +2,7 @@ import React, { useContext, useEffect, useState } from "react";
 import { ShopContext } from "../context/ShopContext";
 import { FaRegWindowClose } from "react-icons/fa";
 import { FaPlus, FaMinus } from "react-icons/fa";
-import CartTotal from "../Components/cartTotal";
+import CartTotal from "../Components/CartTotal";
 import Footer from "../Components/Footer";
 
 const Cart = () => {
